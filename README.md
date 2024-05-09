@@ -16,9 +16,9 @@ a) JDBC SQL Connection - https://youtu.be/pWM7bz_GSDk
 
 Exercícios (Resolver descrevendo as soluções e responder a tarefa com DOC ou PDF):
 1. Fazer:
-a. Instalar o MySQL 8.3.0 (htps://dev.mysql.com/downloads/mysql/).
-b. Criar um Projeto Java, com a biblioteca de conexão com o MySQL 8 (Não deve ser Web).
-c. Criar uma classe GenericDao no pacote persistence para conectar com o MySQL.
-d. O getConnec�on deve exibir em um print o nome do SGBD para que se saiba que a conexão está correta.
-e. Criar uma classe de teste para validar se o getConnec�on está funcionando.
-Colocar um print da saída da IDE junto ao projeto e carregar no Gitub.
+   Instalar o MySQL 8.3.0 (htps://dev.mysql.com/downloads/mysql/).
+   Criar um Projeto Java, com a biblioteca de conexão com o MySQL 8 (Não deve ser Web).
+   Criar uma classe GenericDao no pacote persistence para conectar com o MySQL.
+   O getConnec�on deve exibir em um print o nome do SGBD para que se saiba que a conexão está correta.
+   Criar uma classe de teste para validar se o getConnec�on está funcionando.
+   Colocar um print da saída da IDE junto ao projeto e carregar no Gitub.
